@@ -129,5 +129,5 @@ WIP
 ## 課外活動
 
 ### 執筆歴
-* [ActionScript３．０ ライブラリ入門](https://www.amazon.co.jp/dp/B00G9QIZMY)
+* [ActionScript3.0 ライブラリ入門](https://www.amazon.co.jp/dp/B00G9QIZMY)
 * [Qiita](https://qiita.com/atsumo)

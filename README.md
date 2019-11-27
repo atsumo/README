@@ -29,19 +29,11 @@ WIP
 
 ### 領域
 - Android
-- Web Front
-- Server Side
-- managment
-
-### フレームワーク
-
-- Android
-  - 
-- Web
-- などなど
+- Web Front (JavaScript/ Node.js / React)
+- Server Side (API)
+- Managment
 
 ### その他
-
 - エンジニアマネジメント
 
 ## 言語
@@ -51,7 +43,9 @@ WIP
 
 ## 強み
 - Android開発
-- 
+- フロントエンド、Android、サーバーサイドそれぞれ一通り経験があり
+- Engineer Management
+
 ## やったことはないが興味があるもの
 
 ## 職務経歴
@@ -122,11 +116,32 @@ WIP
 #### スマートフォンアバターサービス開発
 - knockout.js / jQuery / html / css
 
-###  - 2012/11
+### 2009/01 - 2012/11
 
-職務: リードFlashエンジニア
+職務: Flashエンジニア / リードFlashエンジニア / プロダクトマネジメント
 
-### 2009/2
+#### アメーバピグの新規機能開発・運用
+- Flash/ActionScript3.0/Socket
+- Java
+
+#### アメーバピグのアバターを使用したソーシャルゲームピグアイランドの立ち上げ・運用
+- Flash / ActionScript / WebSocket
+- Node.js / MongoDB / WebSocket
+
+### 2008/10 - 2009/01
+
+職務:　Flash Developer
+
+#### PCブラウザクイズゲームの開発
+- Flash / ActionScript 3.0 
+
+### 2008/04 - 2008/10
+
+職務: Web Developer
+
+#### アメーバブログの開発/Flash広告案件開発実装
+- html/CSSを使用しブログのデザインテンプレートのコーディング
+- Flashを使用したキャンペーンサイトなどの開発
 
 ## 課外活動
 

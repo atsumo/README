@@ -57,7 +57,7 @@
 - マッチングサービスのCROSS MEのAndroidの開発
   - Androidの設計/実装
   - 言語: Kotlin
-  - 使用技術: MVVM / Kotlin(coroutines) / JetPack(LiveData, navigation, ktx... etc) / Retrofit2 / moshi / Koin / RxJava
+  - 使用技術: MVVM / Kotlin(Coroutines) / Jetpack(LiveData, navigation, ktx... etc) / Retrofit2 / moshi / Koin / RxJava
 - エンジニアマネジメント
   - クライアントサイド/サーバーサイドすべてのエンジニアのマネジメント
   - 1on1/OKRなどを用いた目標設定/成長フォロー
@@ -98,7 +98,7 @@
 #### Canvasを使用したブラウザゲーム開発
 
 - フロントエンド
-  - CreateJS/Angularを使用したブラウザゲームUIの実装
+  - CreateJS / Angularを使用したブラウザゲームUIの実装
 - サーバーサイド
   - Node.js / MongoDB / Express / Redis / 独自リアルタイム通信基盤
 

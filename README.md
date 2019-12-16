@@ -1,5 +1,4 @@
 # 職務経歴書
-WIP
 
 ## 基本情報
 
@@ -45,8 +44,8 @@ WIP
 - Android開発
 - フロントエンド、Android、サーバーサイドそれぞれ一通り経験があり
 - Engineer Management
+- DesignOps
 
-## やったことはないが興味があるもの
 
 ## 職務経歴
 
@@ -148,3 +147,4 @@ WIP
 ### 執筆歴
 * [ActionScript3.0 ライブラリ入門](https://www.amazon.co.jp/dp/B00G9QIZMY)
 * [Qiita](https://qiita.com/atsumo)
+

@@ -10,8 +10,8 @@
 
 ## スキル
 ### 言語
-- Kotlin
-  - Androidの開発の実務経験(2年以上)
+- Kotlin/Android(2年以上)
+  - Androidの開発の実務経験
 - JavaScript/TypeScript
   - React/Reduxを使用したフロントエンドの開発を(1.5年)
   - Angularを使用したブラウザゲーム開発(1年)
@@ -20,8 +20,8 @@
 - html/css　(2年)
 - C#(Unity)
   - Unityを使用したゲーム開発(1年)
-- ActionScript
-  - Flash/ActionScriptを使用したソーシャルゲームや広告の開発(5年)
+- ActionScript(5年)
+  - Flash/ActionScriptを使用したソーシャルゲームや広告の開発
 - などなど
 
 ### 領域

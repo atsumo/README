@@ -17,11 +17,11 @@
   - Angularを使用したブラウザゲーム開発(1年)
 - Node.js
   - Express/MongoBDを使用したAPI開発(1年)
-- html/css
+- html/css　(2年)
 - C#(Unity)
   - Unityを使用したゲーム開発(1年)
 - ActionScript
-  - Flash/ActionScriptを使用したソーシャルゲームや広告の開発
+  - Flash/ActionScriptを使用したソーシャルゲームや広告の開発(5年)
 - などなど
 
 ### 領域

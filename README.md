@@ -10,7 +10,8 @@
 
 ## スキル
 ### 言語
-- Kotlin/Android(2年以上)
+- Flutter/Dart (２年)
+- Kotlin/Android(4年以上)
   - Androidの開発の実務経験
 - JavaScript/TypeScript
   - React/Reduxを使用したフロントエンドの開発を(1.5年)
@@ -22,11 +23,11 @@
   - Unityを使用したゲーム開発(1年)
 - ActionScript(5年)
   - Flash/ActionScriptを使用したソーシャルゲームや広告の開発
-- などなど
 
 ### 領域
+- Flutter
 - Android
-- Web Front (JavaScript/ Node.js / React)
+- Web Front (JavaScript（TypeScript）　/ Node.js / React)
 - Server Side (API)
 - Managment
 
@@ -39,15 +40,33 @@
   - ネイティブ
 
 ## 強み
-- Android開発
+- Flutter開発(アーキテクチャ設計・実装)
+- Android開発(アーキテクチャ設計・実装)
 - フロントエンド、Android、サーバーサイドそれぞれ一通り経験があり
 - Engineer Management
 - DesignOps
-
+- UXエンジニアリング
 
 ## 職務経歴
+### 2020/06 - 現在
+職務： Mobile Tech Lead / PdM
 
-### 2018/09 - 現在 
+#### SmartDrive Fleet開発
+- 車両管理サービスSmartDrive Fleet
+- PdMとしてサービスの方向性定義から企画立案・ロードマップ策定
+- アプリエンジニアとしてFlutterにてアプリリニューアル
+
+#### PoCアプリ複数立ち上げ
+- モビリティ関連のスマートフォンのアプリをベースとしたPoCを複数立ち上げ
+- アプリはもちろんシステム全体のアーキテクチャ
+ - Flutter / Firebase / Auth0
+ - AWSの各種マネージドサービス 
+- サービスの方向性決定
+- 企画立案
+- アプリ実装
+
+
+### 2018/09 - 2020/06 
 
 職務: Android Tech Lead / エンジニアマネージャー
 
@@ -141,6 +160,7 @@
 - Flashを使用したキャンペーンサイトなどの開発
 
 ## 課外活動
+
 
 ### 執筆歴
 * [ActionScript3.0 ライブラリ入門](https://www.amazon.co.jp/dp/B00G9QIZMY)
